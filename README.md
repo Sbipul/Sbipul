@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbipul&label=Profile%20views&color=0e75b6&style=flat" alt="sbipul" /> </p>
 
-- 🔭 I’m currently working on [Onion Mart](https://onion-mart.vercel.app/)
+- 🔭 I’m currently working on [eksonge-amra](https://eksonge-amra.netlify.app/)
+- 🔭 I’ve recently worked on [Onion Mart](https://onion-mart.vercel.app/)
 
-- 🌱 I’m currently learning **Next Js, Typescript, Redux**
+- 🌱 I’m currently learning **SQL database and query, Electron js, **
 
 - 👨‍💻 All of my projects are available at [https://bipuls-portfolio.netlify.app/](https://bipuls-portfolio.netlify.app/)
 
