@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend, React, Mern developer from Bangladesh</h3>
 
 <h1 align="center">
- <img src="https://i.ibb.co/RYD8V43/Capture.png" />
+ <img src="https://img.freepik.com/free-photo/golden-monstera-leaves-background-design-resource_53876-143096.jpg" />
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbipul&label=Profile%20views&color=0e75b6&style=flat" alt="sbipul" /> </p>
