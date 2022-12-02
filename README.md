@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **bipulcroy121@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MJba0kussnRim-iTW0kh1bC1De-bt6Ii/view](https://drive.google.com/file/d/1MJba0kussnRim-iTW0kh1bC1De-bt6Ii/view)
-
 - ⚡ Fun fact **I am a talkative and funny guy**
 
 <h3 align="left">Connect with me:</h3>
