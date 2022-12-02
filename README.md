@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **SQL database and query, Electron js, **
 
-- 👨‍💻 All of my projects are available at [https://bipuls-portfolio.netlify.app/](https://bipuls-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bipulportfolio104.netlify.app/](https://bipulportfolio104.netlify.app/)
 
 - 📝 I regularly write articles on [https://sbipul.github.io/Express-blog/](https://sbipul.github.io/Express-blog/)
 
