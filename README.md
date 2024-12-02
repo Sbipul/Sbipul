@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Bipul Chandro Roy</h1>
-<h3 align="center">A passionate frontend,Next, React, Vue developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend, Next, React, Vue, Svelt developer from Bangladesh</h3>
 
 <h1 align="center">
- <img src="https://img.freepik.com/free-photo/golden-monstera-leaves-background-design-resource_53876-143096.jpg" />
+ <img src="[https://img.pikbest.com/ai/illus_our/20230413/a7051846e0912a6dd72a64a1d6d0c030.jpg!bw700]" />
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbipul&label=Profile%20views&color=0e75b6&style=flat" alt="sbipul" /> </p>
 
-- 🔭 I’m currently working on [eksonge-amra](https://eksonge-amra.netlify.app/)
-- 🔭 I’ve recently worked on [Onion Mart](https://onion-mart.vercel.app/)
+- 🔭 I’m currently working on [Design in Bangladesh](https://designinbangladesh.com/)
+- 🔭 I’ve recently worked on [Savar Tex](https://savartex.selopian.us/)
 
-- 🌱 I’m currently learning **SQL database and query, Electron js, **
+- 🌱 I’m currently learning **SWR and Astro, **
 
-- 👨‍💻 All of my projects are available at [https://bipulportfolio104.netlify.app/](https://bipulportfolio104.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bipul-chandro-roy.netlify.app/](https://bipul-chandro-roy.netlify.app/)
 
-- 📝 I regularly write articles on [https://sbipul.github.io/Express-blog/](https://sbipul.github.io/Express-blog/)
+- 📝 I regularly write articles on [https://bipul-chandro-roy.netlify.app/#/blogs](https://bipul-chandro-roy.netlify.app/#/blogs)
 
-- 💬 Ask me about **react, Node , reactNative**
+- 💬 Ask me about **react, Next, Vue, Svelt**
 
 - 📫 How to reach me **bipulcroy121@gmail.com**
 
-- ⚡ Fun fact **I am a talkative and funny guy**
+- ⚡ Fun fact **I have obsessed in duck curry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
